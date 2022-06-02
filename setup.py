@@ -45,7 +45,7 @@ setup(
     keywords='tag1 tag2 tag3',
     license=__license__,
     classifiers=[
-        'Development Status :: 4 - Beta',
+        'Development Status :: 3 - Alpha',
         'Environment :: Console',
         'Intended Audience :: Developers',
         'Intended Audience :: System Administrators',
